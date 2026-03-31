@@ -29,7 +29,7 @@ Our hypothesis is that:
 ## Datasets
 
 ### 1. CFPB Consumer Complaint Database
-Public complaint records related to consumer financial products and services.
+Public complaint records related to consumer financial products and services. 
 
 Used fields include:
 - Date received
@@ -39,6 +39,7 @@ Used fields include:
 - State
 
 Source: CFPB
+**Note: I did not include the csv file for this dataset as it exceeded 25MB.** 
 
 ### 2. CPIAUCSL
 Consumer Price Index for All Urban Consumers: All Items.

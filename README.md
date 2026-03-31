@@ -39,6 +39,7 @@ Used fields include:
 - State
 
 Source: CFPB
+
 **Note: I did not include the csv file for this dataset as it exceeded 25MB.** 
 
 ### 2. CPIAUCSL
